@@ -1,1 +1,1 @@
-satranc
+Simple Chess Game
